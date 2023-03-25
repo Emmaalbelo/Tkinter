@@ -1,4 +1,3 @@
-#https://www.udemy.com/course/python-3-al-completo-desde-cero/learn/lecture/5369900#search
 from tkinter import *
 #pack () sirve para que lo que estamos programando se muestre en la pantalla
 

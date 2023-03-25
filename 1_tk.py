@@ -1,8 +1,4 @@
 from tkinter import *
-import matplotlib.pyplot as plt
-import numpy as np
-
-
 
 #Raiz
 root = Tk ()

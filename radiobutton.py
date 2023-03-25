@@ -1,4 +1,3 @@
-#https://www.udemy.com/course/python-3-al-completo-desde-cero/learn/lecture/5369902#search
 from tkinter import*
 
 
